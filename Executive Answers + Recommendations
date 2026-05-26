@@ -3,27 +3,53 @@ Questions This Report Answers By Role
 Executive / C-Suite
 
 Where is revenue actually concentrated, and how exposed are we if those customers churn?
+
+The Middle 60% of spenders have generated 51.4% of our revenue; however, the Top 20% of total spenders generates 24.3% making the loss of these
+customers more critical to the business since their collective revenue contribution is greater than their share ocf the customer
+base.
+
+At a more granular level, as of the date of this report, the Top 20% of spenders spend an average of $273 more during the lifetime of their subscription
 Which customer segments are generating outsized operational cost relative to their value?
 What does a healthy vs. at-risk customer look like?
 
 Customer Success & Retention Services
 
-Which customers are most likely to churn in the near term?
+Which customers are most likely to cancel in the near term?
+Those with monthly billing terms (80%+) and women (17.6% more than men).
+
 What behavioral signals appear before a customer cancels?
+Past due 21+ days (cancellation rate is is 100% at this point; however, further data validation needed because every customer canceling after 21 days seems unusual), last active 15+ days ago (63.4%+), 9 or fewer days of activity
+in the past 30 days (17% higher cancellation than 1-14 days past due), and 4 or more customer support calls (80%+ cancellation).
+
 Which segments should be prioritized for reactive and proactive outreach?
+Infrequent users, over 14 days since last activity, high number of customer support calls within the last 30 days.
 
 Marketing / Customer Acquisition & Retention 
 
 What does the highest-value customer profile look like, and how do we keep and attract more of them?
+They have been customers for an average of about 48 months with over 1/3 of using their subscription 15-24 days in the last 30 days.
+With only 3 support calls in the last 30 days which is the lowest of all segments in this report.
+Demographically, they lean male at 60% and the largest age range is 40-64 years old at 47%.
+
+They're equally split between plan types and show no preference for billing terms.
+
+Since this group is based on tenure, 3+ years, and total spend, we don't need to attract them. Instead, 
+our focus should be on keeping the customers who have not reached the High-Value status and increasing their spending with us. We do this by 
+monitoring accounts with high risk cancellation flags (outlined above and in the report) and taking preventaive
+measures like reminders incentives to use our service often and regularly. 
+
 Are there plan types, tenure bands, or spend tiers that correlate with long-term retention?
 Which segments are underperforming and may need different messaging or incentives?
 
 Support / Operations
 
 Which customer segments are generating disproportionate support volume?
-Is high support usage a churn signal, a service quality issue, or both?
-Where can support resources be better allocated or gated?
 
+
+Is high support usage a churn signal, a service quality issue, or both?
+
+Where can support resources be better allocated or gated?
+Prioritize those with high tenure
 Product
 
 Which plan types retain customers longest, and which see the highest churn?
