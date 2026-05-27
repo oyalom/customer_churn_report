@@ -41,21 +41,39 @@ measures like reminders incentives to use our service often and regularly.
 Are there plan types, tenure bands, or spend tiers that correlate with long-term retention?
 Which segments are underperforming and may need different messaging or incentives?
 
+Plan Types: With a cancellation rate range of 56.07% to 58.18% for the 3 plan types, there is no
+significant differences between them.
+
+Tenure Bands:
+
+Spend Tiers: 
+
+
 Support / Operations
 
 Which customer segments are generating disproportionate support volume?
 
-
-Is high support usage a churn signal, a service quality issue, or both?
+The Bottom 20%. Over 36% of the customers in this segment made 7-10 calls (data caps at 10 calls) in the last month and this group made ~23% of total support calls. Additionally, then only generate 6.6% of total revenue.
+Compare to the Top 20% which made 14% of all support calls but 24% of revenue.
 
 Where can support resources be better allocated or gated?
-Prioritize those with high tenure
+The Bottom 20%'s access to support resources should be limited or eliminated. Options could include reducing the window of time they can
+access support, changing the type of support they receive to a lower cost option (AI, automated, etc.), incentivizing (speed, cost, ease, etc.) DIY resolutions. 
+It might make sense to eliminate rention efforts with Bottom 20% accounts that make a high number of support calls, too.
+
+Support resources should be concentrated in the Top 20%, High-Value Customers, which are Top 20% with 3+ years tenure, because they spend more
+on average $227 more than the Middle 60%, are more active users than the other segments, and 4+ support calls are coorelated with a higher cancellation rate.
+
 Product
 
 Which plan types retain customers longest, and which see the highest churn?
-Are there tenure or activity patterns that suggest product-fit problems?
-What does usage look like across the customer lifecycle?
+They are relatively equal. Billing terms have a greater association with
+cancellations jumpin to a 100% for monthly subscribers; however, 100% this data stands out and requires further validation of the data source/collection to ensure accuracy.
 
+Are there tenure or activity patterns that suggest product-fit problems?
+
+What does usage look like across the customer lifecycle?
+On average, those that have been subscribers for 12-24 months are active 17.05 days per month versus 15.50-15.52 days for customers subscribed for 0-11 months and 25-60 months.
 
 
 
